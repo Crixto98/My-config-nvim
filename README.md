@@ -13,5 +13,5 @@ Antes de utilizar Neovim lo recomendado es aprender lo básico de [vim](https://
 
 ## Algunos ejemplos
 
-![image](../../Imágenes/Capturas de pantalla/Captura desde 2024-04-27 00-22-24.png)
+![image](./source/bin/images/my_config_panel_nvim2024.png)
 
